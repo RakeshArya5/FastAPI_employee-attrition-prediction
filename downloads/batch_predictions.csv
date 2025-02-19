@@ -1,0 +1,4 @@
+TotalWorkingYears,JobLevel,YearsInCurrentRole,MonthlyIncome,Age,YearsWithCurrManager,JobSatisfaction,Attrition_Prediction
+5,2,3,4000,28,2,3,No
+15,4,7,12000,45,6,2,No
+10,3,5,7000,35,3,4,No
